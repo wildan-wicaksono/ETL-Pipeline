@@ -28,7 +28,7 @@ SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 
 credential = Credentials.from_service_account_file(SERVICE_ACCOUNT_FILE, scopes=SCOPES)
 
-SPREADSHEET_ID = '1UgkEGsOqyPpJjpY-FCo0g2GSwjFSIqzEOe2BwD8LohQ'
+SPREADSHEET_ID = '----PROHOBITED-----'
 RANGE_NAME = 'Sheet1!A2:G1500'
 
 def store_to_google_sheet(data):
