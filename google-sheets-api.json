@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "etl-pipeline-459809",
+  "private_key_id": "1931a0d2584ae7b52bf67ac8426db7c0b64af9ff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDjHGJeOUO/dkLg\nl/S6U2TEnXH5wItwxXXTn9NrOJCE7GkcxdrfoLx8fETa0LQRZzqBqCoVjtyzPS/Z\nsmA1MIkstQlkB6A8bnvEwFVu/8aYNW6EclRxe2/tXkrpl0owPFBkhA1jKuKQ/X3T\noVbD8gY+Sxnqa/LmRLHWAf7O1Z5BzVkjeF3KABdHF1liTpm0QQQvJkmKop0evU37\n3soSJzPZo6+Wx9Te7JyoQ1nbn1jetqDxomrbygVPq+60HFaAWJrCmBPDhhsO87/F\nQ6tM0rHSHgWklqLrKlBwqmEGCyRhMMNxUxaDU0XuqE4ih7X1kEdBF0iTYCDrGbv4\n1t0xQK/LAgMBAAECggEADiLu1I1H9EZONLYAsQsOfgE23k7n3xB2HG1vDCuB2Lmb\nyVi0yQVeS3leEn4PLKN6TCZwMtX+UtcqKqjPEusp1AiTbxCHyXsvD7jRGI7/M5Y6\ngjADpZSuC4kPrKk9dZyA0eDjscUyQ8gjlDq6Bd8Dbc6K7GvlEK7nSuTmPBr74NM4\nq4erKSs6Zu4gkpBEQc0pX0MqDC5AgCeGFp6eFGCw8LahJaPPMflXo/Mn0bQb34Vb\nmaSekJit//lniugv2IxW3Fe5zE0AnvM/YsvYbYW6MMaB6Io+pVPkvQqEPvKiZ8DF\n/vwr/pvOm9iHVbd5evn8Hs11LKImquMHtAeXKW1TgQKBgQD6qVYp6f7NlWGx5hpy\nEE+QY+EF+0XkM8H/nTuXXU9n7r3kb2CVcLDKjbBY6pHV2kPrVpByhODtirzRk5Ol\no//uIO9ROUrTyBSJz7ePT6M8BzhSOJxYN46JBTUdMwlkUFcrAI57BfSugx0NvPsI\nMFtqHiDTy/RXr3NFxQ9+XNHO4QKBgQDn8qT7uBwskNWbZI4YMsTdPP3O1ZZqHQ8U\naqRox+n/HxhiFaVy3JuGofNI7kvKqlZ7mUycxBGNtVMM9WAP04HWTNGq5oPu4OG9\n4m8qQNNv3K0NeQVt/zc9ok+oDqchWqj0dHsfRNGGVKEvBNsBipWwcnq0PWbPO/ZK\nlWMDOhDwKwKBgQD4GFbiEWpTTQFvNRMDxsUZYuI8K2IX5mqjd5qdzItlkVV+Hgb4\nops5QFhFCZbilbAX5Iv/7Sk7s9ADlw/SKKqNpSd5uz0mtKgvZtqGDArCxVqndsS4\nQ/TeBbt2dSdclHBSbbCYb2Kov7kn+d51UneIZt2TBBGKIGv1qIAXUAORwQKBgQCT\nvWp5K3xGprpokFQx9aSPhxnjdQip7nh8eLDgTPYvGo9daoxH7VzjFKTx/1cnb/hG\nIg86i2ji6mxMBL97VS2OYr/qK4o9zd/8Iw7Lyx7iUZ2oxz0+IyH8kDZMxYiPJkAX\n9Vm3QQ50kdNZL66P/MX77e9afwHNXlQyjZTTqVjAoQKBgACDuuzcG6cbyyL9VBPI\nIY5wXRFXbeJU2FR0UW3QjiAmt7a0au11E48v79cBuCx69rJ9dV0wpyYxexQwkqog\nnuHFJPtU9IrjzAXlVldpgJJv8eWvkP5m3856ps2+uKYsBzWdrC5L3SKSCo+vswu5\nmSmBRM+Nuug2kvwS+/I9R5VC\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheets-fashion@etl-pipeline-459809.iam.gserviceaccount.com",
+  "client_id": "115377118040907360166",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheets-fashion%40etl-pipeline-459809.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

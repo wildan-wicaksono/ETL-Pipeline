@@ -1,0 +1,17 @@
+# Menjalankan skrip
+python3 main.py
+
+# Menjalankan unit test pada folder tests
+python3 -m pytest --cov=utils tests/
+
+# Menjalankan test coverage pada folder tests
+python3 -m pytest --cov=utils tests/
+
+# Menjalankan test coverage pada folder tests dan membuat file html terkait
+1. Jalankan 
+   python3 -m pytest --cov=utils --cov-report=html tests/
+2. Buka
+   index.html
+
+# Url Google Sheets:
+https://docs.google.com/spreadsheets/d/1UgkEGsOqyPpJjpY-FCo0g2GSwjFSIqzEOe2BwD8LohQ/edit?usp=sharing
